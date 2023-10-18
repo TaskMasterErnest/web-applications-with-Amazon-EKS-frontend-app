@@ -1,2 +1,2 @@
-# web-applications-with-Amazon-EKS-frontend-app
-This repo is linked to the web-applications-with-Amazon-EKS repo, contains the frontend application code to be used in building a CI/CD pipeline.
+# Amazon EKS Demo 
+This repo holds **React Frontend sample** for [web-application-with-Amazon-EKS](https://github.com/TaskMasterErnest/web-applications-with-Amazon-EKS)
